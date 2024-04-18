@@ -1,12 +1,10 @@
-![Header](./![github-header-image (1)](https://github.com/FarahRefaie/FarahRefaie/assets/154762779/aad73a13-5887-44b7-8da7-b56162404420))
+![Header](./![github-header-image (3)](https://github.com/FarahRefaie/FarahRefaie/assets/154762779/1348fb3a-0137-4e9f-9c8d-6c937c63f883))
 
- # Hi, I'm Farah! 👋
-## 🚀 About Me
-#### Table of Contents
+
 
 
   
-I'm a passionate full stack developer...💙
+
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
