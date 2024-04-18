@@ -1,7 +1,6 @@
-![Header](./![github-header-image (3)](https://github.com/FarahRefaie/FarahRefaie/assets/154762779/1348fb3a-0137-4e9f-9c8d-6c937c63f883))
+[github-header-image (3)](https://github.com/FarahRefaie/FarahRefaie/assets/154762779/1348fb3a-0137-4e9f-9c8d-6c937c63f883)
 
-
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/SUcApSWjPwQMARvcM8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/dgitechart-love-it-itechart-SUcApSWjPwQMARvcM8">via GIPHY</a></p>
 
   
 
